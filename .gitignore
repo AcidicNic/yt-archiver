@@ -1,0 +1,5 @@
+.env/
+
+download_queue
+geckodriver
+geckodriver.log
